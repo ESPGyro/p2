@@ -1,4 +1,4 @@
 {
     "Random|block": "Random Sequence",
-    "Random.randomsq|block": "產生 1 到 n 隨機序列 N|%input 外部感測器"
+    "Random.randomsq|block": "產生 1 到 |%input 隨機序列的陣列"
 }
