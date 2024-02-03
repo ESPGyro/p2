@@ -1,7 +1,7 @@
 {
-    "name": "Random",
+    "name": "Random sequence",
     "version": "1.0.0",
-    "description": "",
+    "description": "可隨機產生一組 1 至 N 的序列，以陣列方式讀取",
     "dependencies": {
         "core": "*"
     },
