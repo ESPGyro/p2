@@ -1,8 +1,9 @@
 
-> 在 Makecode arcade 擴充 [https://github.com/ESPGyro/picogame](https://github.com/ESPGyro/picogame)打開此頁面
+> 在 Makecode arcade 擴充 [https://github.com/ESPGyro/random](https://github.com/ESPGyro/random)打開此頁面
 
 * 在工具選單下的**擴充功能**
-* 搜索 https://github.com/ESPGyro/picogame
+* 搜索 https://github.com/ESPGyro/random
+* 這個擴充積木可快速產生隨機且不重覆的數字組
 
 ## 編輯此專案
 
@@ -10,7 +11,7 @@
 
 * 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 按一下**匯入**，然後按一下**匯入 URL**
-* 貼上 **https://github.com/ESPGyro/picogame** 並按一下匯入
+* 貼上 **https://github.com/ESPGyro/random** 並按一下匯入
 
 ## 預覽程式積木
 
